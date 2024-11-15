@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#F0F0F0"/> <!-- Цвет фона, серый -->
+            <corners android:radius="100dp" /> <!-- Радиус скругления в dp -->
+            <padding android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp" /> <!-- Отступы в dp -->
+        </shape>
+    </item>
+</selector>
